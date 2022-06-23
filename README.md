@@ -16,3 +16,7 @@ We have designed a flask server to render the landing page, which has the START 
 ## Demo 
 
  ![working demo](img.JPG)
+ 
+## Important Link(s)
+
+Refer to the following link for documentation, model design and implementation, and hardware setup and specifications : [PROJECT HELIX](https://drive.google.com/drive/folders/1J0-KMqMFl34lPR_oWuzlbegUlaTN_oKS?usp=sharing).
