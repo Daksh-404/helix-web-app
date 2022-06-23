@@ -13,8 +13,8 @@ def index():
 @app.route('/out', methods=['POST', 'GET'])
 def out():
 	#running the batch file
-	#if request.method == "POST":
-		#subprocess.call([r'test.bat'])
+	if request.method == "POST":
+		subprocess.call([r'test.bat'])
 	
 	#setting up the captions
 	caps = ["The man is riding a bicycle", "The man is on a bike", "The man is high and floating"]
