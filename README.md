@@ -2,4 +2,4 @@
 
 ## Demo 
 
- ![working demo](img.jpg)
+ ![working demo](img.JPG)
